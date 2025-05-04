@@ -1,6 +1,7 @@
 # 📈 MasterCard Stock Price Analysis
 
 This project provides a time series analysis and trading signal generation based on MasterCard's historical stock prices from 2005 to 2011. The analysis includes data preprocessing, statistical metrics, visualizations, and a simple moving average-based trading strategy.
+Data source: https://www.kaggle.com/datasets/mayankanand2701/mastercard-stock-price-dataset
 
 ## 🔧 Requirements
 
